@@ -9,10 +9,13 @@ If you have not established the practice of talking with customers regularly, [s
 None!  Though if you'd like to learn more about customer development, you can read my book [*Lean Customer Development: Build Products Your Customers Will Buy*](http://amzn.to/2GseseG) - not open source, though it's likely free to borrow from your local public library.
 
 ## Contributing
-Some questions work better with local or jargon-specific variations.  I welcome changes and variations - please read CONTRIBUTING.md for details on the code of conduct and how to submit your pull requests.
+Some questions work better with local or jargon-specific variations.  I welcome changes and variations - please read [CONTRIBUTING.md](https://github.com/cindyalvarez/customerdevelopment/edit/main/CONTRIBUTING.md) for details on the code of conduct and how to submit your pull requests.
 
 ## Authors
 - Cindy Alvarez
 
 ## License
-This project is licensed under the 
+This project is licensed under the Creative Commons Attribution Share Alike 4.0 International license - see [LICENSE.md](https://github.com/cindyalvarez/customerdevelopment/edit/main/LICENSE.md) for details.
+
+## Acknowledgements
+Thank you to [O'Reilly Media](https://www.oreilly.com/) for publishing Lean Customer Development and giving me a home to start writing about questions like these.
