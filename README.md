@@ -8,8 +8,8 @@ You can use one or all of these questions, as part of a formal customer intervie
 If you have not established the practice of talking with customers regularly, [some of these tips](https://www.cindyalvarez.com/3-ways-to-kickstart-customer-development-thinking-in-less-than-5-minutes/) may help kickstart you.
 
 ## THE QUESTIONS
-- [Tell me about how...](tell-me-about-how.md)
-- [Last time you did...](last-time-you-did.md)
+- [Tell me about how...](questions/tell-me-about-how.md)
+- [Last time you did...](questions/last-time-you-did.md)
 
 ## Everything Else
 Some questions work better with local or jargon-specific variations.  I welcome changes and variations - please read [CONTRIBUTING.md](https://github.com/cindyalvarez/customerdevelopment/edit/main/CONTRIBUTING.md) for details on the code of conduct and how to submit your pull requests.
