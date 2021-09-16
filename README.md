@@ -9,6 +9,7 @@ If you have not established the practice of talking with customers regularly, [s
 
 ## THE QUESTIONS
 - [Tell me about how...](tell-me-about-how.md)
+- [Last time you did...](last-time-you-did.md)
 
 ## Everything Else
 Some questions work better with local or jargon-specific variations.  I welcome changes and variations - please read [CONTRIBUTING.md](https://github.com/cindyalvarez/customerdevelopment/edit/main/CONTRIBUTING.md) for details on the code of conduct and how to submit your pull requests.
