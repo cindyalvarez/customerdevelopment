@@ -19,7 +19,7 @@ Saying *magic wand* is a little silly, and that's deliberate. It invites the par
 
 Emphasizing *it doesn't have to be possible* reassures the participant that you won't laugh at their suggestion.  They often know they aren't a subject matter expert on public transit, or nutrition, and this framing gives them permission to focus on *what they wish they could do* or *how they wish they could feel*.
 
-Sometimes people shorten this question to "If you could wave a magic wand, what would you want [in topic]?" - this seemingly small change renders the question practically useless.  Asking 'what customers want' is a waste of time.
+Sometimes people shorten this question to ["If you could wave a magic wand, what would you want [in topic]?](https://twitter.com/cindyalvarez/status/1395419901607641088?s=20)" - this seemingly small change renders the question practically useless.  Asking 'what customers want' is a waste of time. It nudges them to talk about solutions instead of the root problem.
 
 ## Variations
 
