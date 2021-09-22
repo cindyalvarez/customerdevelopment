@@ -14,7 +14,7 @@ By leaving this open-ended, the participant will naturally talk about what was m
 
 
 ## Why this works
-"What advice would you give..." motivates the participant to be helpful rather than to 'not look foolish'.  This means they give more complete and honest answers, and think through and talk about *how to approach a decision*, as opposed to making suggestions.
+*"What advice would you give..."* motivates the participant to want to be helpful, to share mistakes or confusion so that another person doesn't have to struggle through it. This outweighs our natural default to skim over potentially-embarrassing mistakes or past feelings of anxiety.   This means they give more complete and honest answers, and think through and talk about *how to approach a decision*, as opposed to making suggestions.
 
 We tend to want to ask about preferences ("which do you like better?") -- and also, you can't extrapolate much from personal preferences. (That's why we call them *personal* preferences!)
 
