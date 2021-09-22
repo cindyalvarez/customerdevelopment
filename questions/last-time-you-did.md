@@ -30,5 +30,3 @@ Humans *remember* historical behaviors; we *invent* present and future behaviors
 We are more accurate when remembering and talking about something in the past, versus present or future.  This is often unintentional. Without realizing it, when talking "what we do", we tend to blend together multiple incidents; when talking about "what we would do", we tend to be very aspirational / talk about what we wish we could do.
 
 Asking about "the most frustrating" gives the participant 'permission' to complain.  By saying 'the most frustrating' you're admitting that you know something was frustrating regardless of how polite or how competent your participant is.  Similarly, asking "how long did it take" implies that you know it might've been a long time.
-
-Starting with a broader/more abstract area allows the participant to start talking about what is highest priority to them. It's more useful to know what is important *to your prospective customer* than to ask possibly-irrelevant questions about what is important *to you*.
