@@ -1,4 +1,5 @@
 # If you could wave a magic wand and change anything about [topic] -- *doesn't have to be possible* -- what would make your life easier?
+You'll want to *abstract up a level* and ask about a more general topic, not a specific problem.
 This question is long - and if you try to shorten it, you'll get oversimplified, non-useful answers.  Ask it towards the end of a conversation, *after* you've built some rapport with your prospective customer.
 
 ## Examples
